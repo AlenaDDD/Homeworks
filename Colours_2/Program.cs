@@ -14,7 +14,7 @@ class MainClass
 
             Console.WriteLine("Your colour is red!");
         }
-        else if (color == "green")
+        else if (color == "black")
         {
             Console.BackgroundColor = ConsoleColor.Green;
             Console.ForegroundColor = ConsoleColor.Black;
